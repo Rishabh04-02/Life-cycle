@@ -7,3 +7,7 @@ To run the project you need to install Opengl(glut3) library on your computer.
 To run it in Linux run this command:
 
 	g++ sudo.cpp -lGL -lglut
+
+### Documentation
+
+All the documentation is written in sudo-documentation.pdf.
