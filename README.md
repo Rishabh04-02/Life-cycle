@@ -1,9 +1,9 @@
 # Life-cycle
 
-Its an OpenGL graphics project(LIFE CYCLE)
+It is an OpenGL graphics project(LIFE CYCLE).
 
-To run the project you need to install Opengl(glut3) library in your computer
+To run the project you need to install Opengl(glut3) library on your computer.
 
-To ru in Linux it run through this command below
+To run it in Linux run this command:
 
 	g++ sudo.cpp -lGL -lglut
